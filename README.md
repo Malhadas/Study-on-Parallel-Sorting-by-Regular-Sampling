@@ -1,0 +1,2 @@
+# Study-on-Parallel-Sorting-by-Regular-Sampling
+This paper reports the effort and work expended by the authors in order to reach conclusions regarding the performanceofanimplementationofaparallelsortingbyregular sampling based on [1]. This work presents a deep study of the obtained work-load balance, time and space complexity and various possible optimisations. The algorithm is then heavily tested on two different machines where the obtained time speedup for the increasing number of used threads is observed. 
